@@ -1,0 +1,25 @@
+// ex q 23 ans
+var num1 = 5;
+var num2 = 10;
+var str1 = "hello";
+var str2 = "world";
+var bool1 = true;
+var bool2 = false;
+console.log("Is num1 > num2? I predict False.");
+console.log(num1 > num2);
+console.log("Is num1 + num2 == 15? I predict True.");
+console.log(num1 + num2 == 15);
+console.log("Is str1 + str2 == 'helloworld'? I predict True.");
+console.log(str1 + str2 == 'helloworld');
+console.log("Is str1 == 'hello'? I predict True.");
+console.log(str1 == 'hello');
+console.log("Is bool1 == true? I predict True.");
+console.log(bool1 == true);
+console.log("Is num1 >= num2? I predict False.");
+console.log(num1 >= num2);
+console.log("Is str1 != str2? I predict True.");
+console.log(str1 != str2);
+console.log("Is bool1 && bool2? I predict False.");
+console.log(bool1 && bool2);
+console.log("Is num1 * num2 < 100? I predict True.");
+console.log(num1 * num2 < 100);
